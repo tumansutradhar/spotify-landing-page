@@ -1,5 +1,80 @@
-# Spotify_Landing_Page
-This is my first project without responsive
-![sp](https://github.com/tumansutradhar/Spotify_Landing_Page/assets/121193864/dd70412f-f483-4038-b19a-331cc0742c81)
-![sp2](https://github.com/tumansutradhar/Spotify_Landing_Page/assets/121193864/863ce7cd-dfe3-4d31-9e93-e1a6e03b61c7)
-![sp3](https://github.com/tumansutradhar/Spotify_Landing_Page/assets/121193864/41f70db6-9acd-4618-92e4-d3b8baae6558)
+# Spotify Landing Page
+
+## About
+
+A responsive landing page inspired by Spotify’s design language. Built with semantic HTML and modern CSS to showcase music streaming features, hero visuals, and clear calls to action.
+
+## Built With
+
+- HTML5
+- CSS3
+- Responsive layout
+- Static assets in `Img/`
+
+## Getting Started
+
+### Prerequisites
+
+No build tools or runtimes required. Any modern browser works.
+
+### Installation
+
+1. Clone the repository:
+	```bash
+	git clone https://github.com/tumansutradhar/spotify-landing-page
+	cd spotify-landing-page
+	```
+2. Open the project:
+	- Double-click `index.html`, or
+	- Serve locally (optional):
+	  ```bash
+	  python -m http.server 8000
+	  # Visit http://localhost:8000
+	  ```
+
+## Usage
+
+- Explore the hero and feature sections
+- Customize copy and styles in `index.html` and `style.css`
+- Replace assets under `Img/` with your own artwork
+
+## Features
+
+- Spotify-inspired visual style
+- Responsive layout for mobile and desktop
+- Lightweight, no JavaScript required
+- Easy theming via CSS
+
+## Roadmap
+
+- Add animations and hover effects
+- Add playlist/gallery section
+- Improve accessibility (ARIA roles, focus states)
+- Add newsletter/contact form
+- Optional: migrate to a component-based framework
+
+## Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit changes (`git commit -m "Add AmazingFeature"`)
+4. Push (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE.md` for details.
+
+## Contact
+
+**Author:** Tuman Sutradhar
+
+- GitHub: [@tumansutradhar](https://github.com/tumansutradhar)
+- Email: connect.tuman@gmail.com
+
+## Acknowledgments
+
+- Inspired by Spotify branding
+- Community resources for HTML/CSS responsiveness

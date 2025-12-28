@@ -276,6 +276,7 @@ ul li:hover {
     list-style: none;
     font-size: 12px;
 }
+
 .abt:hover {
     color: #1DB954;
 }
@@ -288,7 +289,7 @@ ul li:hover {
     gap: 25px;
 }
 
-.cr{
+.cr {
     cursor: pointer;
 }
 
