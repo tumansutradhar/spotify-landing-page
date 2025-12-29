@@ -27,10 +27,10 @@ No build tools or runtimes required. Any modern browser works.
 2. Open the project:
 	- Double-click `index.html`, or
 	- Serve locally (optional):
-	  ```bash
-	  python -m http.server 8000
-	  # Visit http://localhost:8000
-	  ```
+	```bash
+	python -m http.server 8000
+	# Visit http://localhost:8000
+	```
 
 ## Usage
 
