@@ -9,7 +9,7 @@ A responsive landing page inspired by Spotify’s design language. Built with se
 - HTML5
 - CSS3
 - Responsive layout
-- Static assets in `Img/`
+- Static assets in `images/`
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ No build tools or runtimes required. Any modern browser works.
 
 - Explore the hero and feature sections
 - Customize copy and styles in `index.html` and `style.css`
-- Replace assets under `Img/` with your own artwork
+- Replace assets under `images/` with your own artwork
 
 ## Features
 
